@@ -103,6 +103,13 @@ Este proyecto fue desarrollado con fines de aprendizaje para practicar:
 
 ---
 
-## 👨‍💻 Autor
+## 📄 Licencia
 
-Qkarman Desarrollador Backend Interesado en arquitectura limpia, lógica formal aplicada y diseño estructurado de sistemas.
+MIT — libre para uso, estudio y modificación.
+
+---
+
+## 👤 Autor
+
+Cristian Flores  
+Backend Java Developer
